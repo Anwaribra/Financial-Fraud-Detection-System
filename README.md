@@ -51,11 +51,11 @@ The system automatically creates stratified splits:
 - Feature engineering pipeline
 - Feature creation and transformation
 - Data scaling and preprocessing
-<!-- 
+
 ### model_development.ipynb
 - Model training and evaluation
 - Hyperparameter tuning
-- Model comparison -->
+- Model comparison
 
 
 
